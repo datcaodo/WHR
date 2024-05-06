@@ -4,7 +4,7 @@
 ![image](https://github.com/datcaodo/WHR/assets/167109605/82017ac1-62b7-4dcd-9870-0953ee1cb3e9)
 
 The World Happiness Report is a partnership of Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the WHR’s Editorial Board. 
-The report is produced under the editorial control of the WHR Editorial Board. From 2024, the World Happiness Report is a publication of the Wellbeing Research Centre at the University of Oxford, UK.1
+The report is produced under the editorial control of the WHR Editorial Board. From 2024, the World Happiness Report is a publication of the Wellbeing Research Centre at the University of Oxford, UK.1.
 
 ## Data
 The dataset comprises of information on the following parameters:

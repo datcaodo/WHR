@@ -20,7 +20,7 @@ The dataset comprises of information on the following parameters:
   - year
 
 The data collection is from different places. To have a more clearer and detailed look, please have a look here: 
-[data collection](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://happiness-report.s3.amazonaws.com/2024/Ch2+Appendix.pdf) .
+[Data Collection](https://happiness-report.s3.amazonaws.com/2024/Ch2+Appendix.pdf)
 
 ## Tools 
 For this project, the following python libraries were used:
